@@ -1,0 +1,24 @@
+# 构建产物
+dist/
+*.zip
+
+# 依赖
+vendor/
+node_modules/
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志与临时文件
+*.log
+*.tmp
+.phpunit.result.cache

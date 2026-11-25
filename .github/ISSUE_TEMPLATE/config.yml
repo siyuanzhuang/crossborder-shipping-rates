@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 使用文档
+    url: https://github.com/siyuanzhuang/crossborder-shipping-rates/blob/main/docs/02-安装与使用.md
+    about: 安装、导入、配送区域配置的完整步骤
+  - name: 先看一遍 FAQ
+    url: https://github.com/siyuanzhuang/crossborder-shipping-rates#常见问题
+    about: 前台不显示配送方式、超重报错等常见问题
