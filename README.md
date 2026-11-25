@@ -46,6 +46,27 @@ Most Chinese cross-border sellers ship through a forwarder who hands them a spre
 | 🚚 **配送方式** | 可放进任意配送区域，支持满额免运费、结算页展示费用明细 |
 | 🔌 **不联网** | 不调任何第三方 API，报价数据只在你自己的数据库里 |
 
+### 截图
+
+<table>
+<tr>
+<td width="50%"><img src="docs/images/carriers.png" alt="物流线路列表" /></td>
+<td width="50%"><img src="docs/images/tools.png" alt="运费试算" /></td>
+</tr>
+<tr>
+<td align="center"><sub>线路列表：一条线路 = 一个物流产品</sub></td>
+<td align="center"><sub>运费试算：与结算页同一套算法</sub></td>
+</tr>
+</table>
+
+<img src="docs/images/import.png" alt="导入报价单并预览" />
+
+<sub>导入报价单：先解析预览，确认分区、重量段、费用无误后再写入。</sub>
+
+<img src="docs/images/rates.png" alt="重量段报价表" />
+
+<sub>重量段报价：可以直接在表格里改，也可以整张表重新导入。</sub>
+
 ### 安装
 
 **方式 A：后台上传**
